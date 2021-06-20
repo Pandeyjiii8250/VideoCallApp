@@ -1,0 +1,9 @@
+.enterRoom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.choiceBtn{
+    display: flex;
+}
